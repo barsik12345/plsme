@@ -56,11 +56,9 @@ border-radius: 20px;
 
   }
   .arrow{
-    width: 154px;
-    height: 154px;
-    border-top: solid  rgb(3, 23, 252) 14px ;
-    border-right: solid rgb(3, 23, 252) 14px;
-    transform: rotate(225deg);
-    margin: 200px 100px;
 
+font-size: 200px;
+margin: 200px 100px;
+color: rgb(3, 23, 252) ;
   }
+  
